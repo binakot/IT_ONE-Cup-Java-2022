@@ -1,0 +1,55 @@
+{
+  "tableName": "Customer",
+  "columnsAmount": 12,
+  "primaryKey": "customerid",
+  "columnInfos": [
+    {
+      "title": "CUSTOMERID",
+      "type": "INTEGER"
+    },
+    {
+      "title": "FIRSTNAME",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "LASTNAME",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "COMPANY",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "ADDRESS",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "CITY",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "COUNTRY",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "POSTALCODE",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "PHONE",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "FAX",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "EMAIL",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "SUPPORTREPID",
+      "type": "INTEGER"
+    }
+  ]
+}

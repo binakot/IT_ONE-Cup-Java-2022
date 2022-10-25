@@ -1,0 +1,44 @@
+{
+  "reportId": 2,
+  "tableAmount": 2,
+  "tables": [
+    {
+      "tableName": "Artists",
+      "columns": [
+        {
+          "title": "id",
+          "type": "int4"
+        },
+        {
+          "title": "name",
+          "type": "varchar"
+        },
+        {
+          "title": "age",
+          "type": "int4"
+        }
+      ]
+    },
+    {
+      "tableName": "Job",
+      "columns": [
+        {
+          "title": "id",
+          "type": "int4"
+        },
+        {
+          "title": "name",
+          "type": "varchar"
+        },
+        {
+          "title": "salary",
+          "type": "int4"
+        },
+        {
+          "title": "address",
+          "type": "varchar"
+        }
+      ]
+    }
+  ]
+}

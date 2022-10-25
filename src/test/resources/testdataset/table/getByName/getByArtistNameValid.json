@@ -1,0 +1,19 @@
+{
+  "tableName": "Artists",
+  "columnsAmount": 3,
+  "primaryKey": "id",
+  "columnInfos": [
+    {
+      "title": "ID",
+      "type": "INTEGER"
+    },
+    {
+      "title": "NAME",
+      "type": "CHARACTER VARYING"
+    },
+    {
+      "title": "AGE",
+      "type": "INTEGER"
+    }
+  ]
+}

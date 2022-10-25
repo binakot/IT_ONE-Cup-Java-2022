@@ -1,0 +1,19 @@
+{
+  "tableName": "Artists",
+  "columnsAmount": 3,
+  "columnInfos": [
+    {
+      "title": "id",
+      "type": "int4"
+    },
+    {
+      "title": "name",
+      "type": "varchar"
+    },
+    {
+      "title": "age",
+      "type": "int4"
+    }
+  ],
+  "primaryKey": "zoo"
+}

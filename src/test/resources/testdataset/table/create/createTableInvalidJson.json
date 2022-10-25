@@ -1,0 +1,23 @@
+{
+  "tableName": "Customer",
+  "columnsAmount": 12,
+  "columnInfos": [
+    {
+      "title": "CustomerId",
+      "type": "int4"
+    },
+    {
+      "title": "FirstName",
+      "type": "VARCHAR(40)"
+    },
+    {
+      "title": "LastName",
+      "type": "VARCHAR(20)"
+    },
+    {
+      "title": "Company",
+      "type": "VARCHAR(80)"
+    },
+    {
+      "title": "Address",
+      "type": "VARCH

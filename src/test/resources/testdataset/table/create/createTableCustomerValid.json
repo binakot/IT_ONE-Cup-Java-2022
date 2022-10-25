@@ -1,0 +1,55 @@
+{
+  "tableName": "Customer",
+  "columnsAmount": 12,
+  "columnInfos": [
+    {
+      "title": "CustomerId",
+      "type": "int4"
+    },
+    {
+      "title": "FirstName",
+      "type": "VARCHAR(40)"
+    },
+    {
+      "title": "LastName",
+      "type": "VARCHAR(20)"
+    },
+    {
+      "title": "Company",
+      "type": "VARCHAR(80)"
+    },
+    {
+      "title": "Address",
+      "type": "VARCHAR(70)"
+    },
+    {
+      "title": "City",
+      "type": "VARCHAR(40)"
+    },
+    {
+      "title": "Country",
+      "type": "VARCHAR(40)"
+    },
+    {
+      "title": "PostalCode",
+      "type": "VARCHAR(10)"
+    },
+    {
+      "title": "Phone",
+      "type": "VARCHAR(24)"
+    },
+    {
+      "title": "Fax",
+      "type": "VARCHAR(24)"
+    },
+    {
+      "title": "Email",
+      "type": "VARCHAR(60)"
+    },
+    {
+      "title": "SupportRepId",
+      "type": "int4"
+    }
+  ],
+  "primaryKey": "CustomerId"
+}

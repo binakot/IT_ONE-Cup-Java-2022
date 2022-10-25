@@ -1,0 +1,23 @@
+{
+  "reportId": 1,
+  "tableAmount": 1,
+  "tables": [
+    {
+      "tableName": "Artists",
+      "columns": [
+        {
+          "title": "id",
+          "type": "int4"
+        },
+        {
+          "title": "name",
+          "type": "varchar"
+        },
+        {
+          "title": "age",
+          "type": "int4"
+        }
+      ]
+    }
+  ]
+}
